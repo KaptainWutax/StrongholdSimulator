@@ -1,10 +1,5 @@
 
-.metadata/
-
-StrongholdSimulator/.classpath
-
-StrongholdSimulator/.project
-
-StrongholdSimulator/.settings/
-
-StrongholdSimulator/bin/
+.settings/
+bin/
+.classpath
+.project
